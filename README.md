@@ -9,8 +9,8 @@ this catering e-commerce website, crafted using HTML, CSS, and JavaScript, enhan
 
 # Technologies Used
 JavaScript: 15.5%
-CSS: 87%
-HTML: 11%
+CSS: 33.6%
+HTML: 50.9%
 
 # Features
 * Home page: The main landing page that showcases the catering website and provides an overview of its offerings.
